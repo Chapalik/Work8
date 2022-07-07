@@ -10,6 +10,4 @@ public class Score {
             statistic[i] = Double.parseDouble(String.format("%.3s", Math.random() * 10));
         }
     }
-
-
 }
